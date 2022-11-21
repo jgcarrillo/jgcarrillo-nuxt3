@@ -1,6 +1,6 @@
 <template>
   <footer>
-    <div class="flex flex-row justify-center items-center gap-4 mb-4">
+    <div class="flex flex-row justify-center items-center gap-8 mb-4">
       <a href="https://github.com/jgcarrillo/" target="_blank">
         <IconsGithubIcon />
       </a>

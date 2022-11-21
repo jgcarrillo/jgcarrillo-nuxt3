@@ -16,4 +16,8 @@ a.router-link-exact-active {
   text-decoration-thickness: 0.1em;
   text-decoration-color: #00cb8a;
 }
+a:hover {
+  color: #00cb8a;
+  transition: 300ms;
+}
 </style>
