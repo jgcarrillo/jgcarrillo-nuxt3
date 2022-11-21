@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "title": "Job position",
+    "link": "#",
+    "company": "@Link to company",
+    "duration": "July 2022 - Present",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae quos esse odio reprehenderit alias nihil omnis, illo hic ipsam consequatur quibusdam atque totam eius iusto blanditiis eos amet consequuntur nulla. Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur quo quisquam inventore, quae ipsam voluptates culpa iure, numquam adipisci eligendi a. Itaque, et vero. Neque odio illum doloremque rerum non. Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur fugiat, eum iste animi repellat id adipisci exercitationem. Ipsum illum odit maxime eaque, soluta sit dignissimos nostrum officiis fuga voluptate perspiciatis?"
+  },
+  {
+    "id": "2",
+    "title": "Job position",
+    "link": "#",
+    "company": "@Link to company",
+    "duration": "March 2021 - July 2022",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae quos esse odio reprehenderit alias nihil omnis, illo hic ipsam consequatur quibusdam atque totam eius iusto blanditiis eos amet consequuntur nulla. Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur quo quisquam inventore, quae ipsam voluptates culpa iure, numquam adipisci eligendi a. Itaque, et vero. Neque odio illum doloremque rerum non. Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur fugiat, eum iste animi repellat id adipisci exercitationem. Ipsum illum odit maxime eaque, soluta sit dignissimos nostrum officiis fuga voluptate perspiciatis?"
+  }
+]

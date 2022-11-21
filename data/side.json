@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "Task Control",
+    "subtitle": "Add, remove, update and delete a list of task",
+    "image": "https://i.picsum.photos/id/20/3670/2462.jpg?hmac=CmQ0ln-k5ZqkdtLvVO23LjVAEabZQx2wOaT4pyeG10I"
+  },
+  {
+    "id": "2",
+    "title": "Telegram Bot",
+    "subtitle": "Display the weather, forecast and add reminders",
+    "image": "https://i.picsum.photos/id/347/5000/3334.jpg?hmac=y6ISvladvZWX6orqcoTW8rQ8XI0UPsptHbLbHooT57Q"
+  },
+  {
+    "id": "3",
+    "title": "Angular Cryptocurrency",
+    "subtitle": "Display a list of cryptos an add them to favorites",
+    "image": "https://i.picsum.photos/id/201/5000/3333.jpg?hmac=NE8fOMa8u9PBfkq4AVwEoJdRqoPTNwUsyKvKWuXyNCk"
+  },
+  {
+    "id": "4",
+    "title": "Reverse Recipes",
+    "subtitle": "Manage a database of recipes",
+    "image": "https://i.picsum.photos/id/312/3888/2592.jpg?hmac=Lk5n0q19XuicLgvYPdAr5iML0VbkEADyqgJoHH_5nAs"
+  }
+]
