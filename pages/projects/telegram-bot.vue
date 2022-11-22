@@ -89,3 +89,9 @@
     </div>
   </div>
 </template>
+
+<script>
+definePageMeta({
+  layout: "projects",
+});
+</script>
