@@ -1,6 +1,9 @@
 <template>
   <div class="pt-24 leading-relaxed text-justify pb-20">
-    <img src="~/assets/images/banner.jpg" class="mb-14 shadow-md" />
+    <img
+      src="~/assets/images/banner.jpg"
+      class="sm: mb-10 md:mb-14 shadow-md"
+    />
 
     <p class="mb-3">
       Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse praesentium

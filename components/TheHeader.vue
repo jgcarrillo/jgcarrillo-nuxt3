@@ -2,13 +2,16 @@
   <nav class="flex flex-row items-center justify-center md:text-lg">
     <NuxtLink to="/">Home</NuxtLink>
     <NuxtLink to="/">
-      <img src="~/assets/images/jgcarrillo.png" class="w-24 mx-10" />
+      <img
+        src="~/assets/images/jgcarrillo.png"
+        class="mx-4 w-16 md:w-24 md:mx-10"
+      />
     </NuxtLink>
     <NuxtLink to="/about">About</NuxtLink>
   </nav>
 </template>
 
-<style>
+<style scoped>
 a.router-link-exact-active {
   color: #00cb8a;
   text-decoration: underline;

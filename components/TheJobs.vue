@@ -1,7 +1,7 @@
 <template>
   <div>
     <h2
-      class="text-2xl md:text-3xl text-center font-bold underline underline-offset-4 md:underline-offset-8 mb-14 md:mb-20"
+      class="text-2xl md:text-2xl text-center font-bold underline underline-offset-4 md:underline-offset-8 mb-14 md:mb-20"
     >
       Work experience
     </h2>
