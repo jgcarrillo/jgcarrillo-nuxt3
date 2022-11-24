@@ -15,10 +15,10 @@
       <div
         class="flex flex-col justify-center items-center absolute w-full h-full top-0 right-0 text-white"
       >
-        <h1 class="text-normal md:text-3xl font-bold mb-2">
+        <h1 class="text-2xl md:text-3xl font-bold mb-2">
           <slot name="title"></slot>
         </h1>
-        <h2 class="text-normal md:text-2xl font-thin">
+        <h2 class="text-2xl md:text-2xl font-thin">
           <slot name="year"></slot>
         </h2>
       </div>

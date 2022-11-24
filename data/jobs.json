@@ -1,18 +1,18 @@
 [
   {
-    "id": "1",
-    "title": "Job position",
-    "link": "#",
-    "company": "@Link to company",
-    "duration": "July 2022 - Present",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae quos esse odio reprehenderit alias nihil omnis, illo hic ipsam consequatur quibusdam atque totam eius iusto blanditiis eos amet consequuntur nulla. Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur quo quisquam inventore, quae ipsam voluptates culpa iure, numquam adipisci eligendi a. Itaque, et vero. Neque odio illum doloremque rerum non. Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur fugiat, eum iste animi repellat id adipisci exercitationem. Ipsum illum odit maxime eaque, soluta sit dignissimos nostrum officiis fuga voluptate perspiciatis?"
-  },
-  {
     "id": "2",
     "title": "Job position",
     "link": "#",
-    "company": "@Link to company",
-    "duration": "March 2021 - July 2022",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae quos esse odio reprehenderit alias nihil omnis, illo hic ipsam consequatur quibusdam atque totam eius iusto blanditiis eos amet consequuntur nulla. Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur quo quisquam inventore, quae ipsam voluptates culpa iure, numquam adipisci eligendi a. Itaque, et vero. Neque odio illum doloremque rerum non. Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur fugiat, eum iste animi repellat id adipisci exercitationem. Ipsum illum odit maxime eaque, soluta sit dignissimos nostrum officiis fuga voluptate perspiciatis?"
+    "company": "@Company name",
+    "duration": "March 2022 - Present",
+    "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse praesentium vero repellat doloribus eveniet rerum assumenda nulla odio nesciunt. Minima enim adipisci earum facilis illo ad totam repellat perspiciatis laboriosam?Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus debitis ad ipsam impedit magni sint, neque omnis. Minima quos commodi iure quae tempora velit in molestias ducimus ipsum doloribus."
+  },
+  {
+    "id": "1",
+    "title": "Frontend Web Developer",
+    "link": "https://www.capgemini.com/es-es/",
+    "company": "@Capgemini",
+    "duration": "March 2022 - Present",
+    "content": "I started in Capgemini as an intern, researching about Three.js and 3D development using Angular Three and NgRx. I have been working on a 3D project with animations, physics, collisions and state management. Later on, the project was migrated from Angular to React to improve the performance with React Three Fiber library, using TypeScript, Redux, Node.js with Express and Mongo DB Atlas. At the same time I have created an onboarding Wiki for new employees and I have also worked with Tailwind CSS."
   }
 ]

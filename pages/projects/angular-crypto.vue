@@ -5,7 +5,7 @@
         <img
           src="https://i.picsum.photos/id/201/5000/3333.jpg?hmac=NE8fOMa8u9PBfkq4AVwEoJdRqoPTNwUsyKvKWuXyNCk"
           alt="side project image"
-          class="md:w-8/12 m-auto my-20 contrast-50"
+          class="md:w-8/12 m-auto my-20 contrast-50 brightness-50"
         />
       </template>
 
@@ -13,42 +13,22 @@
       <template #year>2021</template>
 
       <p class="leading-relaxed mb-6">
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequatur
-        magni, reprehenderit porro eius debitis laboriosam excepturi nobis
-        mollitia nesciunt. Aliquid, tempore voluptatem. Veniam adipisci odit
-        accusamus esse iste quibusdam quod! Lorem ipsum dolor sit amet
-        consectetur adipisicing elit. Est sint unde minima amet voluptatum nobis
-        mollitia porro sequi dolor! Sit rerum tenetur eaque possimus delectus
-        quidem officiis vitae impedit accusantium. Lorem ipsum dolor, sit amet
-        consectetur adipisicing elit. Ullam amet, ipsa ab exercitationem dicta,
-        nihil quibusdam itaque saepe recusandae doloremque vero enim debitis
-        possimus! Tempore minus debitis ea eligendi qui.
+        Angular Cryptocurrency is an application designed to show a list of
+        cryptos which I have developed to improve my Angular Skills. The
+        objective was to use an API, get the data and let the user to search for
+        crypto by name and even add the currency to a favorite place. Once the
+        crypto is there, you can also see the details fot it.
       </p>
 
       <p class="leading-relaxed mb-6">
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequatur
-        magni, reprehenderit porro eius debitis laboriosam excepturi nobis
-        mollitia nesciunt. Aliquid, tempore voluptatem. Veniam adipisci odit
-        accusamus esse iste quibusdam quod! Lorem ipsum dolor sit amet
-        consectetur adipisicing elit. Est sint unde minima amet voluptatum nobis
-        mollitia porro sequi dolor! Sit rerum tenetur eaque possimus delectus
-        quidem officiis vitae impedit accusantium. Lorem ipsum dolor, sit amet
-        consectetur adipisicing elit. Ullam amet, ipsa ab exercitationem dicta,
-        nihil quibusdam itaque saepe recusandae doloremque vero enim debitis
-        possimus! Tempore minus debitis ea eligendi qui.
-      </p>
-
-      <p class="leading-relaxed mb-6">
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequatur
-        magni, reprehenderit porro eius debitis laboriosam excepturi nobis
-        mollitia nesciunt. Aliquid, tempore voluptatem. Veniam adipisci odit
-        accusamus esse iste quibusdam quod! Lorem ipsum dolor sit amet
-        consectetur adipisicing elit. Est sint unde minima amet voluptatum nobis
-        mollitia porro sequi dolor! Sit rerum tenetur eaque possimus delectus
-        quidem officiis vitae impedit accusantium. Lorem ipsum dolor, sit amet
-        consectetur adipisicing elit. Ullam amet, ipsa ab exercitationem dicta,
-        nihil quibusdam itaque saepe recusandae doloremque vero enim debitis
-        possimus! Tempore minus debitis ea eligendi qui.
+        It's implementation its very simple since I have only used Angular with
+        BootStrap. You can check the application
+        <a
+          href="https://angular-crypto-api.netlify.app/"
+          target="_blank"
+          class="text-brand hover:text-brand-light transition duration-300 hover:underline"
+          >in this link.</a
+        >
       </p>
 
       <template #tags>
@@ -72,7 +52,7 @@ definePageMeta({
 export default {
   data() {
     return {
-      tags: ["#Angular", "#API", "#Netlify", "#Fetch"],
+      tags: ["#Angular", "#API", "#Netlify", "#Fetch", "#BootStrap"],
     };
   },
 };

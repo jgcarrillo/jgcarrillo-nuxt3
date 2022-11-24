@@ -5,7 +5,7 @@
         <img
           src="https://i.picsum.photos/id/20/3670/2462.jpg?hmac=CmQ0ln-k5ZqkdtLvVO23LjVAEabZQx2wOaT4pyeG10I"
           alt="side project image"
-          class="md:w-8/12 m-auto my-20 contrast-50"
+          class="md:w-8/12 m-auto my-20 contrast-50 brightness-50"
         />
       </template>
 
@@ -13,42 +13,26 @@
       <template #year>2022</template>
 
       <p class="leading-relaxed mb-6">
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequatur
-        magni, reprehenderit porro eius debitis laboriosam excepturi nobis
-        mollitia nesciunt. Aliquid, tempore voluptatem. Veniam adipisci odit
-        accusamus esse iste quibusdam quod! Lorem ipsum dolor sit amet
-        consectetur adipisicing elit. Est sint unde minima amet voluptatum nobis
-        mollitia porro sequi dolor! Sit rerum tenetur eaque possimus delectus
-        quidem officiis vitae impedit accusantium. Lorem ipsum dolor, sit amet
-        consectetur adipisicing elit. Ullam amet, ipsa ab exercitationem dicta,
-        nihil quibusdam itaque saepe recusandae doloremque vero enim debitis
-        possimus! Tempore minus debitis ea eligendi qui.
+        Task Control is an application that allows you to control a list of
+        tasks. You can add task with different fields such as dates, hours, etc.
+        The application is able to count the number of hours you spend on each
+        task. You can also search tasks by name. The goal of making this
+        application was to create a way to track your tasks by hour and manage a
+        database of data that persits accros the views.
       </p>
 
       <p class="leading-relaxed mb-6">
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequatur
-        magni, reprehenderit porro eius debitis laboriosam excepturi nobis
-        mollitia nesciunt. Aliquid, tempore voluptatem. Veniam adipisci odit
-        accusamus esse iste quibusdam quod! Lorem ipsum dolor sit amet
-        consectetur adipisicing elit. Est sint unde minima amet voluptatum nobis
-        mollitia porro sequi dolor! Sit rerum tenetur eaque possimus delectus
-        quidem officiis vitae impedit accusantium. Lorem ipsum dolor, sit amet
-        consectetur adipisicing elit. Ullam amet, ipsa ab exercitationem dicta,
-        nihil quibusdam itaque saepe recusandae doloremque vero enim debitis
-        possimus! Tempore minus debitis ea eligendi qui.
-      </p>
-
-      <p class="leading-relaxed mb-6">
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequatur
-        magni, reprehenderit porro eius debitis laboriosam excepturi nobis
-        mollitia nesciunt. Aliquid, tempore voluptatem. Veniam adipisci odit
-        accusamus esse iste quibusdam quod! Lorem ipsum dolor sit amet
-        consectetur adipisicing elit. Est sint unde minima amet voluptatum nobis
-        mollitia porro sequi dolor! Sit rerum tenetur eaque possimus delectus
-        quidem officiis vitae impedit accusantium. Lorem ipsum dolor, sit amet
-        consectetur adipisicing elit. Ullam amet, ipsa ab exercitationem dicta,
-        nihil quibusdam itaque saepe recusandae doloremque vero enim debitis
-        possimus! Tempore minus debitis ea eligendi qui.
+        I have decided to use Vue.js because it was one of the framework that I
+        wanted to learn. I have also used Vuex to control the internal state of
+        the application as well as Vue Router to create two different views. In
+        the same way, I wanted to learn Tailwind CSS so the entire application
+        is made with that framework. You can check the application
+        <a
+          href="https://fct-control-vuejs.netlify.app/"
+          target="_blank"
+          class="text-brand hover:text-brand-light transition duration-300 hover:underline"
+          >in this link.</a
+        >
       </p>
 
       <template #tags>

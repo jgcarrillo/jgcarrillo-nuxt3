@@ -5,7 +5,7 @@
         <img
           src="https://i.picsum.photos/id/347/5000/3334.jpg?hmac=y6ISvladvZWX6orqcoTW8rQ8XI0UPsptHbLbHooT57Q"
           alt="side project image"
-          class="md:w-8/12 m-auto my-20 contrast-50"
+          class="md:w-8/12 m-auto my-20 contrast-50 brightness-50"
         />
       </template>
 
@@ -13,42 +13,19 @@
       <template #year>2022</template>
 
       <p class="leading-relaxed mb-6">
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequatur
-        magni, reprehenderit porro eius debitis laboriosam excepturi nobis
-        mollitia nesciunt. Aliquid, tempore voluptatem. Veniam adipisci odit
-        accusamus esse iste quibusdam quod! Lorem ipsum dolor sit amet
-        consectetur adipisicing elit. Est sint unde minima amet voluptatum nobis
-        mollitia porro sequi dolor! Sit rerum tenetur eaque possimus delectus
-        quidem officiis vitae impedit accusantium. Lorem ipsum dolor, sit amet
-        consectetur adipisicing elit. Ullam amet, ipsa ab exercitationem dicta,
-        nihil quibusdam itaque saepe recusandae doloremque vero enim debitis
-        possimus! Tempore minus debitis ea eligendi qui.
+        Telegram Bot is an application I have built for my family and friends in
+        my spare time for two weeks. It has been developed, above all, to
+        experiment with Telegram bots. The goal was to build a simple weather
+        bot, to check the currect weather and forecast for five days. It also
+        allows users to create reminders and list them.
       </p>
 
       <p class="leading-relaxed mb-6">
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequatur
-        magni, reprehenderit porro eius debitis laboriosam excepturi nobis
-        mollitia nesciunt. Aliquid, tempore voluptatem. Veniam adipisci odit
-        accusamus esse iste quibusdam quod! Lorem ipsum dolor sit amet
-        consectetur adipisicing elit. Est sint unde minima amet voluptatum nobis
-        mollitia porro sequi dolor! Sit rerum tenetur eaque possimus delectus
-        quidem officiis vitae impedit accusantium. Lorem ipsum dolor, sit amet
-        consectetur adipisicing elit. Ullam amet, ipsa ab exercitationem dicta,
-        nihil quibusdam itaque saepe recusandae doloremque vero enim debitis
-        possimus! Tempore minus debitis ea eligendi qui.
-      </p>
-
-      <p class="leading-relaxed mb-6">
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequatur
-        magni, reprehenderit porro eius debitis laboriosam excepturi nobis
-        mollitia nesciunt. Aliquid, tempore voluptatem. Veniam adipisci odit
-        accusamus esse iste quibusdam quod! Lorem ipsum dolor sit amet
-        consectetur adipisicing elit. Est sint unde minima amet voluptatum nobis
-        mollitia porro sequi dolor! Sit rerum tenetur eaque possimus delectus
-        quidem officiis vitae impedit accusantium. Lorem ipsum dolor, sit amet
-        consectetur adipisicing elit. Ullam amet, ipsa ab exercitationem dicta,
-        nihil quibusdam itaque saepe recusandae doloremque vero enim debitis
-        possimus! Tempore minus debitis ea eligendi qui.
+        For its implementation, I have decided to use a library called grammY to
+        communicate wit the Telegram API as well as TypeScript and Axios to make
+        requests to weather API. I have also contributed to this library adding
+        the Vercel documentation to deploy the bot. It was an incredible project
+        with great challenges that I had to overcome.
       </p>
 
       <template #tags>

@@ -5,7 +5,7 @@
         <img
           src="https://i.picsum.photos/id/312/3888/2592.jpg?hmac=Lk5n0q19XuicLgvYPdAr5iML0VbkEADyqgJoHH_5nAs"
           alt="side project image"
-          class="md:w-8/12 m-auto my-20 contrast-50"
+          class="md:w-8/12 m-auto my-20 contrast-50 brightness-50"
         />
       </template>
 
@@ -13,42 +13,15 @@
       <template #year>2021</template>
 
       <p class="leading-relaxed mb-6">
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequatur
-        magni, reprehenderit porro eius debitis laboriosam excepturi nobis
-        mollitia nesciunt. Aliquid, tempore voluptatem. Veniam adipisci odit
-        accusamus esse iste quibusdam quod! Lorem ipsum dolor sit amet
-        consectetur adipisicing elit. Est sint unde minima amet voluptatum nobis
-        mollitia porro sequi dolor! Sit rerum tenetur eaque possimus delectus
-        quidem officiis vitae impedit accusantium. Lorem ipsum dolor, sit amet
-        consectetur adipisicing elit. Ullam amet, ipsa ab exercitationem dicta,
-        nihil quibusdam itaque saepe recusandae doloremque vero enim debitis
-        possimus! Tempore minus debitis ea eligendi qui.
+        Reverse Recipes is an application designed to search recipes by
+        ingredients, which I have developed as my higher technician project. The
+        objective was to get away from everything I had learned during the
+        degree and learn technologies that really seemed interesting to me.
       </p>
 
       <p class="leading-relaxed mb-6">
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequatur
-        magni, reprehenderit porro eius debitis laboriosam excepturi nobis
-        mollitia nesciunt. Aliquid, tempore voluptatem. Veniam adipisci odit
-        accusamus esse iste quibusdam quod! Lorem ipsum dolor sit amet
-        consectetur adipisicing elit. Est sint unde minima amet voluptatum nobis
-        mollitia porro sequi dolor! Sit rerum tenetur eaque possimus delectus
-        quidem officiis vitae impedit accusantium. Lorem ipsum dolor, sit amet
-        consectetur adipisicing elit. Ullam amet, ipsa ab exercitationem dicta,
-        nihil quibusdam itaque saepe recusandae doloremque vero enim debitis
-        possimus! Tempore minus debitis ea eligendi qui.
-      </p>
-
-      <p class="leading-relaxed mb-6">
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequatur
-        magni, reprehenderit porro eius debitis laboriosam excepturi nobis
-        mollitia nesciunt. Aliquid, tempore voluptatem. Veniam adipisci odit
-        accusamus esse iste quibusdam quod! Lorem ipsum dolor sit amet
-        consectetur adipisicing elit. Est sint unde minima amet voluptatum nobis
-        mollitia porro sequi dolor! Sit rerum tenetur eaque possimus delectus
-        quidem officiis vitae impedit accusantium. Lorem ipsum dolor, sit amet
-        consectetur adipisicing elit. Ullam amet, ipsa ab exercitationem dicta,
-        nihil quibusdam itaque saepe recusandae doloremque vero enim debitis
-        possimus! Tempore minus debitis ea eligendi qui.
+        For its implementation I have decided to use Laravel and Vue.js with
+        JetStream and Inertia and Tailwind CSS as style framework.
       </p>
 
       <template #tags>

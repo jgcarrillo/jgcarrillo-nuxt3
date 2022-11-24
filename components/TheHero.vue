@@ -7,7 +7,7 @@
       My name is Jorge Gómez
     </h1>
     <h2 class="text-2xl md:text-3xl text-gray-400 font-thin">
-      I'm a Murcia based web developer focused on quality code
+      I'm a Murcia based web developer focused on develop quality code
     </h2>
   </div>
 </template>
