@@ -1,18 +1,18 @@
 [
   {
     "id": "2",
-    "title": "Job position",
-    "link": "#",
-    "company": "@Company name",
-    "duration": "March 2022 - Present",
+    "title": "Front-End Developer",
+    "link": "https://zapp-studio.com/",
+    "company": "@Zapp Studio",
+    "duration": "December 2022 - Present",
     "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse praesentium vero repellat doloribus eveniet rerum assumenda nulla odio nesciunt. Minima enim adipisci earum facilis illo ad totam repellat perspiciatis laboriosam?Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus debitis ad ipsam impedit magni sint, neque omnis. Minima quos commodi iure quae tempora velit in molestias ducimus ipsum doloribus."
   },
   {
     "id": "1",
-    "title": "Frontend Web Developer",
+    "title": "Web Developer",
     "link": "https://www.capgemini.com/es-es/",
     "company": "@Capgemini",
-    "duration": "March 2022 - Present",
+    "duration": "March 2022 - November 2022",
     "content": "I started in Capgemini as an intern, researching about Three.js and 3D development using Angular Three and NgRx. I have been working on a 3D project with animations, physics, collisions and state management. Later on, the project was migrated from Angular to React to improve the performance with React Three Fiber library, using TypeScript, Redux, Node.js with Express and Mongo DB Atlas. At the same time I have created an onboarding Wiki for new employees and I have also worked with Tailwind CSS."
   }
 ]
