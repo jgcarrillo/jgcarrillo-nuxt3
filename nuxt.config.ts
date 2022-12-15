@@ -20,7 +20,7 @@ export default defineNuxtConfig({
         {
           hid: "og:image",
           property: "og:image",
-          content: "/thumb.jpg",
+          content: "/images/thumb.jpg",
         },
         { name: "format-detection", content: "telephone=no" },
       ],
