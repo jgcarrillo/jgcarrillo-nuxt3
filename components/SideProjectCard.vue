@@ -3,7 +3,7 @@
     :href="url"
     class="rounded overflow-hidden shadow-lg hover:scale-105 transition duration-300"
   >
-    <nuxt-img :src="image" alt="side project image" class="w-full" />
+    <img :src="image" alt="side project image" class="w-full" />
     <div class="text-center p-6">
       <h3 class="sm:text-normal md:text-xl lg:text-2xl font-bold mb-2">
         {{ title }}
