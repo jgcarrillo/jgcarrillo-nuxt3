@@ -1,9 +1,6 @@
 <template>
   <div class="pt-24 leading-relaxed text-justify pb-20">
-    <img
-      src="~/assets/images/banner.jpg"
-      class="sm: mb-10 md:mb-14 shadow-md"
-    />
+    <nuxt-img src="/images/banner.jpg" class="sm: mb-10 md:mb-14 shadow-md" />
 
     <p class="mb-3 tracking-wide">
       Ciao! My name is Jorge Gómez, I am 31 years old and I'm currently living

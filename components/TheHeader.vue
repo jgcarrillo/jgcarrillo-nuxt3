@@ -3,7 +3,7 @@
     <NuxtLink to="/">Home</NuxtLink>
     <NuxtLink to="/">
       <img
-        src="~/assets/images/jgcarrillo.png"
+        src="/images/jgcarrillo.png"
         class="mx-4 w-16 md:w-24 md:mx-10 hover:brightness-105 transition duration-300"
       />
     </NuxtLink>

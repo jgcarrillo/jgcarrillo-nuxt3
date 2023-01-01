@@ -3,7 +3,7 @@
     <NuxtLayout name="projects">
       <template #image>
         <img
-          src="https://i.picsum.photos/id/20/3670/2462.jpg?hmac=CmQ0ln-k5ZqkdtLvVO23LjVAEabZQx2wOaT4pyeG10I"
+          src="/images/task-control.jpg"
           alt="side project image"
           class="md:w-8/12 m-auto my-20 contrast-50 brightness-50"
         />

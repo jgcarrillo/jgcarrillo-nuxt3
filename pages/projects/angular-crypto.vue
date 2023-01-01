@@ -3,7 +3,7 @@
     <NuxtLayout name="projects">
       <template #image>
         <img
-          src="https://i.picsum.photos/id/201/5000/3333.jpg?hmac=NE8fOMa8u9PBfkq4AVwEoJdRqoPTNwUsyKvKWuXyNCk"
+          src="/images/angular-crypto.jpg"
           alt="side project image"
           class="md:w-8/12 m-auto my-20 contrast-50 brightness-50"
         />

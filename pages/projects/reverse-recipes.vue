@@ -3,7 +3,7 @@
     <NuxtLayout name="projects">
       <template #image>
         <img
-          src="https://i.picsum.photos/id/312/3888/2592.jpg?hmac=Lk5n0q19XuicLgvYPdAr5iML0VbkEADyqgJoHH_5nAs"
+          src="/images/reverse-recipes.jpg"
           alt="side project image"
           class="md:w-8/12 m-auto my-20 contrast-50 brightness-50"
         />

@@ -3,7 +3,7 @@
     <NuxtLayout name="projects">
       <template #image>
         <img
-          src="https://i.picsum.photos/id/347/5000/3334.jpg?hmac=y6ISvladvZWX6orqcoTW8rQ8XI0UPsptHbLbHooT57Q"
+          src="/images/telegram-bot.jpg"
           alt="side project image"
           class="md:w-8/12 m-auto my-20 contrast-50 brightness-50"
         />
