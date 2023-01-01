@@ -5,7 +5,7 @@
     "link": "https://zapp-studio.com/",
     "company": "@Zapp Studio",
     "duration": "December 2022 - Present",
-    "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse praesentium vero repellat doloribus eveniet rerum assumenda nulla odio nesciunt. Minima enim adipisci earum facilis illo ad totam repellat perspiciatis laboriosam?Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus debitis ad ipsam impedit magni sint, neque omnis. Minima quos commodi iure quae tempora velit in molestias ducimus ipsum doloribus."
+    "content": "I'm curerntly working on the front-end side of the company trying to write and deliver clean, quality and optimized code. My day to day stack is Vue and Nuxt, but I also use Angular according to the requirements of the work. I'm also working with Vuetify to style the applications."
   },
   {
     "id": "1",
@@ -13,6 +13,6 @@
     "link": "https://www.capgemini.com/es-es/",
     "company": "@Capgemini",
     "duration": "March 2022 - November 2022",
-    "content": "I started in Capgemini as an intern, researching about Three.js and 3D development using Angular Three and NgRx. I have been working on a 3D project with animations, physics, collisions and state management. Later on, the project was migrated from Angular to React to improve the performance with React Three Fiber library, using TypeScript, Redux, Node.js with Express and Mongo DB Atlas. At the same time I have created an onboarding Wiki for new employees and I have also worked with Tailwind CSS."
+    "content": "I started in Capgemini as an intern, researching about Three.js and 3D development using Angular Three and NgRx. I have been working on a 3D project with animations, physics, collisions and state management. As the application was scaling, I decided to migrated the project from Angular to React to improve the performance with React Three Fiber library, using TypeScript, Redux, Node.js with Express and Mongo DB Atlas. During this time I tried to document all my code as well as I could. Because of that I created an onboarding Wiki for new employees to make it easy for them to start using the application. I have also worked with Tailwind CSS to style the entire application."
   }
 ]
