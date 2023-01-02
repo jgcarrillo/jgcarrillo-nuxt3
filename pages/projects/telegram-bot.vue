@@ -16,7 +16,7 @@
         Telegram Bot is an application I have built for my family and friends in
         my spare time for two weeks. It has been developed, above all, to
         experiment with Telegram bots. The goal was to build a simple weather
-        bot, to check the currect weather and forecast for five days. It also
+        bot, to check the current weather and forecast for five days. It also
         allows users to create reminders and list them.
       </p>
 
