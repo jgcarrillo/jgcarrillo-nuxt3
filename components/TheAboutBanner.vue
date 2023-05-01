@@ -3,7 +3,7 @@
     <img src="/images/banner.jpg" class="sm: mb-10 md:mb-14 shadow-md" />
 
     <p class="mb-3 tracking-wide">
-      Ciao! My name is Jorge Gómez, I am 31 years old and I'm currently living
+      Ciao! My name is Jorge Gómez, I am 32 years old and I'm currently living
       in Murcia, Spain. I studied building engineer at the UCAM university and
       later on I decided to move on Web Development studying a Higher Technical
       Qualification.
