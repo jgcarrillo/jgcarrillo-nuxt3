@@ -23,7 +23,7 @@
       this year I hope to get some time to learn GO, because I have in mind some
       CLI applications that could be interesting. I am also an enthusiast of Vim
       and Neovim and, although I am not using these editors in my day to day
-      life, I am in love with vim shortcuts.
+      life, I am in love with Vim shortcuts.
     </p>
 
     <p class="mb-3 tracking-wide">
