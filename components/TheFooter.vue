@@ -16,7 +16,7 @@
       <a href="https://twitter.com/jgcarrillo_" target="_blank">
         <IconsTwitterIcon />
       </a>
-      <a rel="me" href="https://mastodon.social/@jgcarrillo">
+      <a rel="me" href="https://mastodon.social/@jgcarrillo" target="_blank">
         <IconsMastodonIcon />
       </a>
     </div>
