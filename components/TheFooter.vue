@@ -16,6 +16,9 @@
       <a href="https://twitter.com/jgcarrillo_" target="_blank">
         <IconsTwitterIcon />
       </a>
+      <a rel="me" href="https://mastodon.social/@jgcarrillo">
+        <IconsMastodonIcon />
+      </a>
     </div>
     <p class="text-sm md:text-normal text-center text-gray-400 font-thin">
       Made with Nuxt 3 💚 Jorge Gómez 2022 &copy;
