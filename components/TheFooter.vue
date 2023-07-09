@@ -21,7 +21,7 @@
       </a>
     </div>
     <p class="text-sm md:text-normal text-center text-gray-400 font-thin">
-      Made with Nuxt 3 💚 Jorge Gómez 2022 &copy;
+      Made with Nuxt 3 💚 Jorge Gómez 2023 &copy;
     </p>
   </footer>
 </template>
