@@ -30,10 +30,12 @@
       In my spare time I take the time to learn new technologies through books,
       articles or videos. What I love most is software architecture,
       craftsmanship and design patterns. Thanks to books such as Uncle Bob's
-      Clean Architecture or Pragmatic Programmer I have learned beyond just
-      programming: code quality, testing, etc. Everything I am learning I always
-      try to put it into practice in my side projects, there is always something
-      to improve!
+      <span class="italic">'Clean Architecture'</span>,
+      <span class="italic">'Pragmatic Programmer'</span>
+      or even <span class="italic">'The Programmer's Brain'</span> I have
+      learned beyond just programming: code quality, testing, etc. Everything I
+      am learning I always try to put it into practice in my side projects,
+      there is always something to improve!
     </p>
 
     <p class="mb-3 tracking-wide">
@@ -44,3 +46,11 @@
     </p>
   </div>
 </template>
+
+<style scoped>
+.italic {
+  font-style: italic;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 1.1rem;
+}
+</style>

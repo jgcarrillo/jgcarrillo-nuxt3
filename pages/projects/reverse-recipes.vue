@@ -21,7 +21,14 @@
 
       <p class="leading-relaxed mb-6">
         For its implementation I have decided to use Laravel and Vue.js with
-        JetStream and Inertia and Tailwind CSS as style framework.
+        JetStream and Inertia and Tailwind CSS as style framework. If you are
+        curious
+        <a
+          href="https://github.com/jgcarrillo/reverse-recipes/"
+          target="_blank"
+          class="text-brand hover:text-brand-light transition duration-300 hover:underline"
+          >you can take a look here.</a
+        >
       </p>
 
       <template #tags>
