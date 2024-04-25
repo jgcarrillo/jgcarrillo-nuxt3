@@ -11,9 +11,10 @@
       <p class="text-gray-400 font-thin mb-3 md:text-xl">
         {{ duration }}
       </p>
-      <p class="leading-relaxed text-justify tracking-wide">
-        {{ content }}
-      </p>
+      <p
+        class="leading-relaxed text-justify tracking-wide"
+        v-html="content"
+      ></p>
     </div>
   </div>
 </template>

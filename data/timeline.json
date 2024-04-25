@@ -1,0 +1,131 @@
+[
+  {
+    "year": "2024",
+    "entries": [
+      {
+        "title": "Books, books, books",
+        "description": "I wanted to soak up all the knowledge I'd been accumulating by diving into Twitter and other social networks. I also started digging into several technical books like \"The Programmer's Brain,\" \"The Pragmatic Programmer,\" and \"The Clean Coder.\" I figured it was time to broaden my horizons and reinforce those good practices. 💪."
+      }
+    ]
+  },
+  {
+    "year": "2023",
+    "entries": [
+      {
+        "title": "Developed some cool projects",
+        "description": "I started developing personal projects to learn various technologies. My focus shifted towards creating bots for Telegram using JavaScript and TypeScript. Additionally, I began exploring the use of 3D on the web through libraries like ThreeJS or React Three Fiber 🧊."
+      },
+      {
+        "title": "My first talk!",
+        "description": "I decided to share the knowledge I had learned using these 3D libraries by giving a talk to other developers. It was an experience I loved and hope to repeat."
+      },
+      {
+        "title": "Courses, courses, courses",
+        "description": "I started devouring courses (and actually finishing them!). The one I enjoyed the most was a Vue 3 course taught by Maximilian Schwarzmüller."
+      },
+      {
+        "title": "Portfolio remake!",
+        "description": "After getting a solid grip on Vue 3, and since I was eager to dive into Nuxt 3, I figured it was time to give my portfolio another makeover to put what I've learned into practice."
+      },
+      {
+        "title": "Joined Zapp Studio as a Frontend Developer",
+        "description": "Career level up (again!) 🏠🚀"
+      }
+    ]
+  },
+  {
+    "year": "2022",
+    "entries": [
+      {
+        "title": "Started to remake my portfolio",
+        "description": "My portfolio was overdue for an update, so I decided to rebuild it from the ground up, incorporating new technologies I've learned recently (11ty, Jekyll, etc.). "
+      },
+      {
+        "title": "Graduated in Higher Technician in Web Applications Development",
+        "description": "Ending with an overall grade of 9.31/10 and receiving several honorable mentions. Pretty good ✨."
+      },
+      {
+        "title": "Joined Capgemini as a Web Developer",
+        "description": "Career level up 🏠🚀"
+      },
+      {
+        "title": "Discovered the path of good programming practices",
+        "description": "I start getting interested in topics like SOLID principles, Test-Driven Development (TDD), or Hexagonal Architecture. I consume a lot of content on these topics (like CodelyTv), and I begin using Twitter to stay updated on current trends. Thanks to that, I also start reading technical books 🌌"
+      }
+    ]
+  },
+  {
+    "year": "2020",
+    "entries": [
+      {
+        "title": "Absorbing knowledge",
+        "description": "I decide to enroll in a 6-month training program in my city where they teach HTML, CSS, JavaScript, PHP, SQL, and Symfony. I juggle this with courses on Udemy 🔥"
+      },
+      {
+        "title": "That damn virus 🦠",
+        "description": "Unemployed and unable to leave my house, I start creating small projects and uploading them to GitHub. Calculators, simple portfolios. I learn how to deploy on Netlify and GitHub Pages."
+      },
+      {
+        "title": "Started a Higher Technician in Web Applications Development: DAW",
+        "description": "I had no intention of returning to university. I was seeking a program that offered a shorter duration but would still adequately prepare me, both theoretically and practically. Thus, I decided on the Higher Technician in Web Applications Development, which is the highest educational level in Spain before pursuing a university degree."
+      }
+    ]
+  },
+  {
+    "year": "2019",
+    "entries": [
+      {
+        "title": "Decided to go back to study 📚",
+        "description": "After several years of job hopping and realizing that architecture wasn't my true passion, I decide to enroll in a Higher Technician program in Web Applications Development. Unfortunately, the course doesn't start until next year."
+      },
+      {
+        "title": "My (not so) first line of code 🏃",
+        "description": "Although I had dabbled with Java, HTML, and CSS in previous years, it wasn't until this moment that I began programming seriously. With still a year left before the course began, I made it my goal to learn as much as I could by then."
+      }
+    ]
+  },
+  {
+    "year": "2015",
+    "entries": [
+      {
+        "title": "Graduated at UCAM as a Building Engineer 🎓",
+        "description": "After five years of hard work, I finally graduated from university. Those were years I cherish dearly, especially for the friendships and experiences I had. Now, my professional journey begins! 🚀"
+      },
+      {
+        "title": "Got my first job",
+        "description": "Thanks to an internship program at my university, I secure a job at a Real Estate company conveniently close to my home. In this job, I learn how to navigate a professional environment and manage to get promoted several times. I become responsible for specific areas of work, assisting in the training of new employees."
+      }
+    ]
+  },
+  {
+    "year": "2009",
+    "entries": [
+      {
+        "title": "Started an university degree in Building Architecture",
+        "description": "Not sure what to study, I decided to follow what I loved most at the time: drawing. In my surroundings, there wasn't much enthusiasm for technology, and even less belief in software development as a feasible way to earn a living."
+      }
+    ]
+  },
+  {
+    "year": "1999",
+    "entries": [
+      {
+        "title": "Got my first Pokémon game",
+        "description": "Even though I had already dabbled in video games, my PC couldn't handle much, so my parents decided to get me a red Game Boy Pocket along with Pokémon Red."
+      },
+      {
+        "title": "Video Games, here I come! 💻",
+        "description": "I started to get interested in video games by reading specialized magazines. This led me to delve deeper into the world of computing."
+      }
+    ]
+  },
+  {
+    "year": "1991",
+    "entries": [
+      {
+        "title": "A little boy (me) was born",
+        "description": "🐣"
+      }
+    ]
+  }
+]

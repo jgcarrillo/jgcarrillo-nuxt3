@@ -3,7 +3,7 @@
     <img src="/images/banner.jpg" class="sm: mb-10 md:mb-14 shadow-md" />
 
     <p class="mb-3 tracking-wide">
-      Ciao! My name is Jorge Gómez, I am 32 years old and I'm currently living
+      Ciao! My name is Jorge Gómez, I am 33 years old and I'm currently living
       in Murcia, Spain. I studied building engineer at the UCAM university and
       later on I decided to move on Web Development studying a Higher Technical
       Qualification.
@@ -44,13 +44,15 @@
       keyboards. And of course... I also like to enjoy the weekend with my
       family and friends cooking some pizzas! 🍕
     </p>
+
+    <div class="mt-10 mb-4">
+      <TheTimeline />
+    </div>
   </div>
 </template>
 
 <style scoped>
 .italic {
   font-style: italic;
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-  font-size: 1.1rem;
 }
 </style>
